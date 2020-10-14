@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>Pictures/Zero3.png</file>
+        <file>Pictures/Zero2.png</file>
+        <file>Pictures/Zero1.png</file>
+        <file>Pictures/Field.png</file>
+        <file>Pictures/Eks4.png</file>
+        <file>Pictures/Eks3.png</file>
+        <file>Pictures/Eks2.png</file>
+        <file>Pictures/Eks1.png</file>
+        <file>Pictures/Start_Button.jpg</file>
+        <file>Pictures/Win_line.png</file>
+        <file>Pictures/Close.png</file>
+        <file>Pictures/Repeat.png</file>
+    </qresource>
+</RCC>
